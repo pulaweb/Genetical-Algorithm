@@ -11,6 +11,8 @@ using System.Windows.Forms.DataVisualization.Charting;
 
 namespace Genetical_Algorithm
 {
+    // Made in December 2019 by Piotr Ulaszewski.
+
     public partial class Form1 : Form
     {
         // each person has a chromosome = a 10-bit value describing which items he owns
